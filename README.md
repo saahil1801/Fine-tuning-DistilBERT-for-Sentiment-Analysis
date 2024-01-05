@@ -1,4 +1,4 @@
-# Fine-tuning DistilBERT for Sentiment Analysis - GitHub README
+# Fine-tuning DistilBERT for Sentiment Analysis 
 
 ## Overview
 This repository demonstrates the process of fine-tuning the DistilBERT model for sentiment analysis using the Hugging Face ecosystem. DistilBERT is a smaller, faster, cheaper, and lighter version of BERT, designed for resource-constrained environments.
